@@ -1,0 +1,9 @@
+#Folders
+/test
+/nbproject
+/dist
+/build
+
+#Files
+*desktop.ini
+build.xml
