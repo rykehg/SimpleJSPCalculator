@@ -11,7 +11,7 @@
         <title>Calculadora</title>
     </head>
     <body>
-        <h3>Henrique Hessel Gaeta - ADS - Matutino</h3>
+        <h3>Caculadora</h3>
         <br>
         
         <h2>Insira os números: </h2>
