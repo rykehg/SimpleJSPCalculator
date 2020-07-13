@@ -1,4 +1,4 @@
-<a href="https://pixabay.com/images/id-3186079/"><img src="https://pixabay.com/get/55e1dd454a55a514f1dc8460da293277113bdee7515479_640.png" title="Calculator" ></a>
+<img src="https://i.imgur.com/DbKtB2D.gif" title="Calculator" >
 
 # Simple JSP Calculator
 
