@@ -6,7 +6,7 @@
         <title>Calculadora</title>
     </head>
     <body>
-        <h3>Henrique Hessel Gaeta - ADS - Matutino</h3>
+        <h3>Calculadora</h3>
         <br>        
         <h1>O resultado é: </h1>
         <%= request.getAttribute("resultado").toString() %>
